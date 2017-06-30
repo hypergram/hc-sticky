@@ -9,7 +9,7 @@
 // License: Released under the MIT License www.opensource.org/licenses/mit-license.php
 // Description: Cross-browser jQuery plugin that makes any element attached to the page and always visible while you scroll.
 
-(function($, window, undefined) {
+(function($) {
 	"use strict";
 
 	// console.log shortcut
@@ -633,7 +633,7 @@
 		}
 	});
 
-})(jQuery, this);
+})(jQuery);
 
 
 
@@ -646,7 +646,7 @@
 // Website: http://someweblog.com/
 // License: Released under the MIT License www.opensource.org/licenses/mit-license.php
 
-(function($, undefined) {
+(function($) {
 	"use strict";
 
 	$.fn.extend({
