@@ -1,0 +1,19 @@
+{
+  "name": "hc-sticky",
+  "version": "1.2.43",
+  "description": "HC-Sticky =========",
+  "main": "jquery.hc-sticky.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypergram/hc-sticky.git"
+  },
+  "author": "\"Some Web Media <somewebmedia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hypergram/hc-sticky/issues"
+  },
+  "homepage": "https://github.com/hypergram/hc-sticky#readme"
+}
